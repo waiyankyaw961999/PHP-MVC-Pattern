@@ -1,0 +1,17 @@
+{
+  "name": "phpmvc/waiyan",
+  "authors": [
+    {
+      "name": "waiyankyaw961999",
+      "email": "64473359+waiyankyaw961999@users.noreply.github.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "."
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.4"
+  }
+}
